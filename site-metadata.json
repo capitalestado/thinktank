@@ -27,7 +27,7 @@
             {
                 "label": "Entre em Contato",
                 "url": "/contact",
-                "style": "secondary"
+                "style": "primary"
             }
         ],
         "logo": "images/logo.png"
