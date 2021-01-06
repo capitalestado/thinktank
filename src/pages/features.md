@@ -57,7 +57,6 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=AaazigILX1Q'
             style: primary
-            
     title: O Básico da Economia Política
 template: advanced
 ---
