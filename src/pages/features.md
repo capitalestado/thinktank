@@ -15,7 +15,7 @@ sections:
           norte-americana veio a se tornar hegemônica no sistema econômico
           internacional.
         align: left
-        image: images/feature.svg
+        image: images/dolar.jpg
         image_position: right
         actions:
           - label: Learn More
