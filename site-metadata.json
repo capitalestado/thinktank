@@ -38,7 +38,7 @@
             },
             {
                 "label": "Contato",
-                "url": "conta",
+                "url": "contact",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
