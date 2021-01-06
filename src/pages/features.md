@@ -45,6 +45,19 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=WCaim9QK47E'
             style: primary
+      - title: O que aconteceu com a nossa Democracia?
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        align: right
+        image: images/democracia.jpg
+        image_position: right
+        actions:
+          - label: Acesse o Vídeo
+            url: 'https://www.youtube.com/watch?v=AaazigILX1Q'
+            style: primary
+            
     title: O Básico da Economia Política
 template: advanced
 ---
