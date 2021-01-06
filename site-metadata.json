@@ -11,7 +11,7 @@
             },
             {
                 "label": "Visão de Mundo",
-                "url": "visao",
+                "url": "/visao",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
