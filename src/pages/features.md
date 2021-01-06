@@ -52,7 +52,7 @@ sections:
           euismod lacinia.
         align: left
         image: images/democracia.jpg
-        image_position: right
+        image_position: left
         actions:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=AaazigILX1Q'
