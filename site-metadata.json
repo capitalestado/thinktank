@@ -5,6 +5,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "Sobre",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "Produções",
                 "url": "/features",
                 "style": "link"
@@ -12,11 +17,6 @@
             {
                 "label": "Blog",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "Sobre",
-                "url": "/about",
                 "style": "link"
             },
             {
