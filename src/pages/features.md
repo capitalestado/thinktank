@@ -45,6 +45,22 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=WCaim9QK47E'
             style: primary
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_position: left
+        actions: []
+        type: feature
     title: O Básico da Economia Política
 template: advanced
 ---
