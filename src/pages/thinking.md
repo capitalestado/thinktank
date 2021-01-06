@@ -41,6 +41,7 @@ sections:
       que envolvam a análise e o tratamento de dados com o objetivo de fornecer
       maior embasamento empírico a nossas proposições. Em termos políticos, urge
       superar a discussão meramente acadêmica.
+    title: Nossa Visão de Mundo
   - type: team_section
     title: Our Team
     team:
