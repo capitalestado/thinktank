@@ -10,6 +10,13 @@
                 "style": "link"
             },
             {
+                "label": "Visão de Mundo",
+                "url": "visao",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Produções",
                 "url": "/features",
                 "style": "link"
@@ -28,13 +35,6 @@
                 "label": "Entre em Contato",
                 "url": "/contact",
                 "style": "primary"
-            },
-            {
-                "label": "Visão de Mundo",
-                "url": "visao",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "logo": "images/logo.png"
