@@ -43,7 +43,7 @@ sections:
         image_position: right
         actions:
           - label: Acesse o Vídeo
-            url: /blog
+            url: 'https://www.youtube.com/watch?v=WCaim9QK47E'
             style: primary
     title: O Básico da Economia Política
 template: advanced
