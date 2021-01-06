@@ -9,7 +9,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: Feature 1
+      - title: Por quê o dólar é a moeda mais forte do mundo?
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
