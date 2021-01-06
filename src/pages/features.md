@@ -30,7 +30,7 @@ sections:
         image: images/feature.svg
         image_position: left
         actions:
-          - label: Learn More
+          - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=2FRgrhsGcKo'
             style: primary
       - title: Feature 3
