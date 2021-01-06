@@ -7,6 +7,18 @@ sections:
       Abaixo apresentamos o conjunto dos trabalhos desenvolvidos pelos membros
       do CAPETA.
     align: center
+  - title: Podcasts
+    content: >
+      ## O Futuro do Dinheiro
+
+
+      <iframe width="100%" height="166" scrolling="no" frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490325352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
+      #antropologia #governo  #moeda #bitcoin #criptomoedas #blockchain
+    type: content_section
   - type: features_section
     features:
       - title: Por que o Dólar é a moeda mais forte do mundo?
@@ -70,17 +82,5 @@ sections:
             url: 'https://www.youtube.com/watch?v=G3MSba5zPdc'
             style: primary
     title: O Básico da Economia Política
-  - title: Podcasts
-    content: >
-      ## O Futuro do Dinheiro
-
-
-      <iframe width="100%" height="166" scrolling="no" frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490325352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-
-      #antropologia #governo  #moeda #bitcoin #criptomoedas #blockchain
-    type: content_section
 template: advanced
 ---
