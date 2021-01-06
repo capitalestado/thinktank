@@ -27,7 +27,7 @@ sections:
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
         align: left
-        image: images/feature.svg
+        image: images/divida.jpg
         image_position: left
         actions:
           - label: Acesse o Vídeo
