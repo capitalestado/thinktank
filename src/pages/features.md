@@ -8,21 +8,29 @@ sections:
       do CAPETA.
     align: center
   - title: Podcasts
-    content: >
+    content: >+
       ## O Futuro do Dinheiro
 
-      #### Podcast Bonus Track - Bonus Track - Futuro do Dinheiro com Glaucia Campregher 
-      <iframe width="100%" height="166" scrolling="no" frameborder="no"
-      allow="autoplay"
+      #### Podcast Bonus Track - Bonus Track - Futuro do Dinheiro com Glaucia
+      Campregher  <iframe width="100%" height="166" scrolling="no"
+      frameborder="no" allow="autoplay"
       src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/490325352&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
+
       #antropologia #governo  #moeda #bitcoin #criptomoedas #blockchain
-      
+
+
+
+
       #### Podcast CAPETA - Profª Glaúcia comenta sobre a Reforma da Previdência
-      <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/610169304&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-      #reforma-da-previdencia #governo #empregos #bolsonaro #guedes #crescimento #distribucao-de-renda
-      
-      
-      
+      <iframe width="100%" height="300" scrolling="no" frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/610169304&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+      #reforma-da-previdencia #governo #empregos #bolsonaro #guedes #crescimento
+      #distribucao-de-renda
+
     type: content_section
   - type: features_section
     features:
