@@ -70,5 +70,18 @@ sections:
             url: 'https://www.youtube.com/watch?v=G3MSba5zPdc'
             style: primary
     title: O Básico da Economia Política
+  - title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: content_section
 template: advanced
 ---
