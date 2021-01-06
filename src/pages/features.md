@@ -21,7 +21,7 @@ sections:
           - label: Acess o Vídeo
             url: 'https://www.youtube.com/watch?v=XKJ5sZwL7qU'
             style: primary
-      - title: Feature 2
+      - title: Acabou o dinheiro? - Dívida Pública Brasileira
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
