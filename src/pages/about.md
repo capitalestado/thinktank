@@ -5,19 +5,14 @@ sections:
     title: Quem Somos
     align: center
   - type: content_section
-    content: >-
-      Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
-      sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
-      Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
-      senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
-      adipiscing elit pellentesque habitant.
-
-
-      Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Ac
-      felis donec et odio pellentesque. Sem nulla pharetra diam sit amet.
-      Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
-      neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
-      turpis in eu mi bibendum neque egestas.
+    content: >
+      O “CAPETA” – Capital e Estado, é um grupo de pesquisa, extensão e ativismo
+      político em favor do desenvolvimento sócio-econômico-político-cultural das
+      nações da periferia do capitalismo global. Somos professores e estudantes
+      de economia, relações internacionais, e humanidades que têm como ponto de
+      partida uma Economia Política renovada, na qual o material e o social
+      andam juntos. Para nós, mercado e Estado, dinheiro e poder, são
+      instituições sociais constitutivas uma da outra.
   - type: team_section
     title: Our Team
     team:
