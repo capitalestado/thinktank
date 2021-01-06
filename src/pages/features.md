@@ -18,7 +18,7 @@ sections:
         image: images/dolar.jpg
         image_position: right
         actions:
-          - label: Acesso o Vídeo
+          - label: Assista a Série de V
             url: /about
             style: primary
       - title: Feature 2
