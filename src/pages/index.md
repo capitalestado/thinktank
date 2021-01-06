@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: '"Por que o dólar é a moeda mais forte do mundo?"'
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      "Por que o dólar é a moeda mais forte do mundo?" conta com as explicações
+      da professora Glaucia Campregher sobre como a moeda norte-americana veio a
+      se tornar hegemônica no sistema econômico internacional.
     actions:
       - label: Learn More
         url: /features
