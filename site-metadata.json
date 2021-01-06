@@ -31,7 +31,7 @@
             },
             {
                 "label": "Visão de Mundo",
-                "url": "lorem-ipsum",
+                "url": "visao",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
