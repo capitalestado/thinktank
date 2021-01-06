@@ -45,5 +45,6 @@ sections:
           - label: Learn More
             url: /blog
             style: primary
+    title: O Básico da Economia Política
 template: advanced
 ---
