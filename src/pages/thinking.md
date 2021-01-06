@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Visao de Mundo
 sections:
   - type: hero_section
     title: Sobre o CAPETA
