@@ -38,7 +38,7 @@
             },
             {
                 "label": "Contato",
-                "url": "lorem-ipsum",
+                "url": "conta",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
