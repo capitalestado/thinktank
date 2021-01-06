@@ -9,7 +9,7 @@ sections:
     align: center
   - type: features_section
     features:
-      - title: O Básico da Economia Política
+      - title: Por que o Dólar é a moeda mais forte do mundo?
         content: >-
           Explicações da professora Glaucia Campregher sobre como a moeda
           norte-americana veio a se tornar hegemônica no sistema econômico
