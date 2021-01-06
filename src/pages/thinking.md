@@ -1,5 +1,5 @@
 ---
-title: Visao de Mundo
+title: Visão de Mundo
 sections:
   - type: hero_section
     title: Sobre o CAPETA
