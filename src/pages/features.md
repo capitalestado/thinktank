@@ -57,6 +57,17 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=AaazigILX1Q'
             style: primary
+      - title: Para onde vão nossos impostos?
+        content: >-
+          A prof. Dr. Gláucia Campregher e o graduando Mario Lúcio Pedrosa discutem um pouco sobre a carga tributária brasileira e possibilidades de reformas.
+        align: left
+        image: images/democracia.jpg
+        image_position: right
+        actions:
+          - label: Acesse o Vídeo
+            url: 'https://www.youtube.com/watch?v=G3MSba5zPdc'
+            style: primary
+            
     title: O Básico da Economia Política
 template: advanced
 ---
