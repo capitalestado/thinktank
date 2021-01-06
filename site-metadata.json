@@ -43,7 +43,8 @@
                 "url": "/funding",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/majestic-sloth.png"
     },
     "footer": {
         "has_nav": true,
