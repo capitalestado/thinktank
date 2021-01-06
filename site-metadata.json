@@ -95,7 +95,7 @@
                 "type": "action"
             }
         ],
-        "content": "&copy; Este site tem o conteudo liberado em Creative Commons - Share Alike. <br>This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Crie o seu <a href=\"https://app.stackbit.com/create?theme=starter\" target=\"_blank\" rel=\"noopener\">aqui</a>."
+        "content": "&copy; Este site tem o conteudo liberado em Creative Commons - Share Alike. <br>This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Crie o seu próprio site <a href=\"https://app.stackbit.com/create?theme=starter\" target=\"_blank\" rel=\"noopener\">aqui</a>."
     },
     "title": "Stackbit Starter Theme"
 }
