@@ -1,9 +1,6 @@
 ---
 title: Visão de Mundo
 sections:
-  - type: hero_section
-    title: Sobre o CAPETA
-    align: center
   - type: content_section
     content: >-
       O “CAPETA” – Capital e Estado, é um grupo de pesquisa, extensão e ativismo
