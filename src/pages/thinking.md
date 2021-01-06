@@ -1,5 +1,5 @@
 ---
-title: 'Visão '
+title: ''
 sections:
   - title: lorem-ipsum
     content: >-
