@@ -33,7 +33,7 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=2FRgrhsGcKo'
             style: primary
-      - title: Feature 3
+      - title: O que leva um país ao crescimento econômico?
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
           eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
