@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Produções
 sections:
   - type: hero_section
     title: Nossas Produções
