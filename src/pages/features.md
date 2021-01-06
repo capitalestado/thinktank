@@ -18,7 +18,7 @@ sections:
         image: images/dolar.jpg
         image_position: right
         actions:
-          - label: Acesso Vídeos
+          - label: Acess o Vídeo
             url: /about
             style: primary
       - title: Feature 2
