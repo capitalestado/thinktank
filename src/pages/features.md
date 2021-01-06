@@ -19,7 +19,8 @@ sections:
         image_position: right
         actions:
           - label: Acess o Vídeo
-            url: /about
+            url: >-
+              https://www.youtube.com/watch?v=XKJ5sZwL7qU&list=PLQdB3XiG1n9rDSyahwGzswLm5vebjsGLP&index=1
             style: primary
       - title: Feature 2
         content: >-
