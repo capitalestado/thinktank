@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Nossas Produções
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      Abaixo apresentamos o conjunto dos trabalhos desenvolvidos pelos membros
+      do CAPETA.
     align: center
   - type: features_section
     features:
