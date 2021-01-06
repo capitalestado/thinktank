@@ -42,7 +42,7 @@ sections:
         image: images/crescimento.jpg
         image_position: right
         actions:
-          - label: Learn More
+          - label: Acesse o Vídeo
             url: /blog
             style: primary
     title: O Básico da Economia Política
