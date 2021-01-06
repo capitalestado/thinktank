@@ -43,7 +43,7 @@ sections:
         image: images/dolar.jpg
         image_position: right
         actions:
-          - label: Acess o Vídeo
+          - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=XKJ5sZwL7qU'
             style: primary
       - title: Acabou o dinheiro? - Dívida Pública Brasileira
