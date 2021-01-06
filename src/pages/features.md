@@ -35,9 +35,9 @@ sections:
             style: primary
       - title: O que leva um país ao crescimento econômico?
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          A Professora Doutora Gláucia Campregher e a mestra em Economia
+          Política, Livi Gerbase, conversam sobre o básico do Crescimento
+          Econômico e as dificuldades de países como o Brasil de alcançá-lo.
         align: left
         image: images/crescimento.jpg
         image_position: right
