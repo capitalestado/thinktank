@@ -31,7 +31,7 @@ sections:
         image_position: left
         actions:
           - label: Learn More
-            url: /style-guide
+            url: 'https://www.youtube.com/watch?v=2FRgrhsGcKo'
             style: primary
       - title: Feature 3
         content: >-
