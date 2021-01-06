@@ -41,7 +41,7 @@
             {
                 "label": "Apoie-nos \\o/",
                 "url": "/funding",
-                "style": "secondary"
+                "style": "primary"
             }
         ],
         "logo": "images/logo.png"
