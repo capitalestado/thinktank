@@ -1,6 +1,6 @@
 ---
 title: 'CAPETA na Galileu: O Futuro do Dinheiro'
-date: '2020-05-25'
+date: '2020-05-02'
 author: src/data/team/miles-tone.yaml
 categories:
   - src/data/categories/news.yaml
