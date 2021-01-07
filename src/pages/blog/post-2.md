@@ -8,7 +8,7 @@ categories:
 tags:
   - Jamstack
   - Netlify
-image: images/2.png
+image: images/capeta-galileu.png
 excerpt: >-
   Na edição da Revista Galileu (JUL. 18), fomos procurados para falar um pouco
   sobre Dinheiro, confere aí!
