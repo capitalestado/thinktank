@@ -2,7 +2,7 @@
 title: General
 sections:
   - type: hero_section
-    title: All Posts In General
+    title: Todos os Posts em Geral
     align: center
   - type: blog_feed_section
     show_recent: false
