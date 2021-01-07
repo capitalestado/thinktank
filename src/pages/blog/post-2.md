@@ -17,4 +17,7 @@ template: post
 
 Na última edição da Revista Galileu (JUL. 18), fomos procurados para falar um pouco sobre Dinheiro, confere aí!
 
-![CAPETA na Revista Galeileu - O Futuro do Dinheiro](/images/capeta-galileu.png)
+![CAPETA na Revista Galileu - O Futuro do Dinheiro](/images/capeta-galileu.png)
+![CAPETA na Revista Galileu - O Futuro do Dinheiro](/images/capeta-galileu2.png)
+![CAPETA na Revista Galileu - O Futuro do Dinheiro](/images/capeta-galileu3.png)
+![CAPETA na Revista Galileu - O Futuro do Dinheiro](/images/capeta-galileu4.png)
