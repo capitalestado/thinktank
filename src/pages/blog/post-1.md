@@ -3,7 +3,6 @@ title: >-
   O curioso caso do país autossuficiente em petróleo que, após operação feita
   por juízes treinados nos EUA, passa a comprar combustível de americanos
 date: '2020-04-16'
-author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
