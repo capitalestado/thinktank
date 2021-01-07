@@ -8,8 +8,8 @@ categories:
   - src/data/categories/general.yaml
 image: images/michel-temer-cumprimenta-pedro-parente.jpg
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Assinado por toda a equipe do CAPETA. Organizadores: Augusto Colório, Marina
+  Rossetto e Pedro Guedes.
 template: post
 ---
 #### Assinado por toda a equipe do CAPETA. Organizadores: Augusto Colório, Marina Rossetto e Pedro Guedes.
