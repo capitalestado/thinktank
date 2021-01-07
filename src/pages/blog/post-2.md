@@ -10,8 +10,8 @@ tags:
   - Netlify
 image: images/2.png
 excerpt: >-
-  Na última edição da Revista Galileu (JUL. 18), fomos procurados para falar um
-  pouco sobre Dinheiro, confere aí!
+  Na edição da Revista Galileu (JUL. 18), fomos procurados para falar um pouco
+  sobre Dinheiro, confere aí!
 template: post
 ---
 
