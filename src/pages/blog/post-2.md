@@ -1,7 +1,6 @@
 ---
 title: 'CAPETA na Galileu: O Futuro do Dinheiro'
 date: '2018-07-24'
-author: src/data/team/miles-tone.yaml
 categories:
   - src/data/categories/news.yaml
   - src/data/categories/general.yaml
