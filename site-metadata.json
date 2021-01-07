@@ -10,6 +10,13 @@
                 "style": "link"
             },
             {
+                "label": "Visão de Mundo",
+                "url": "/thinking",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Produções",
                 "url": "/features",
                 "style": "link"
@@ -20,17 +27,24 @@
                 "style": "link"
             },
             {
-                "label": "Exemplo de Página",
+                "label": "Contato",
+                "url": "/contact",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
+                "label": "",
                 "url": "/style-guide",
                 "style": "link"
             },
             {
-                "label": "Entre em Contato",
-                "url": "/contact",
+                "label": "Apoie-nos _o/",
+                "url": "/funding",
                 "style": "primary"
             }
         ],
-        "logo": "images/logo.png"
+        "logo": "images/majestic-sloth.png"
     },
     "footer": {
         "has_nav": true,
@@ -81,7 +95,7 @@
                 "type": "action"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=starter\" target=\"_blank\" rel=\"noopener\">here</a>."
+        "content": "&copy; Este site tem o conteudo liberado em Creative Commons - Share Alike. <br>Este site \"Jamstack\" foi criado com a ferramenta online <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Crie o seu próprio site <a href=\"https://app.stackbit.com/create?theme=starter\" target=\"_blank\" rel=\"noopener\">aqui</a>."
     },
     "title": "Stackbit Starter Theme"
 }
