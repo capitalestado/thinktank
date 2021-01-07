@@ -6,7 +6,7 @@ date: '2018-05-31'
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/general.yaml
-image: images/1.png
+image: images/michel-temer-cumprimenta-pedro-parente.jpg
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
