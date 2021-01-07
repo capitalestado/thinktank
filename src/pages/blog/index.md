@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Blog
+    title: Blog do CAPETA
     align: center
   - type: blog_feed_section
     show_recent: false
