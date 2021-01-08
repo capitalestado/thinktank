@@ -8,9 +8,8 @@ tags:
   - economia
 image: images/andreperfeito2.png
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Assista a conversa gravada pelo CAPETA com André Perfeito realizada no dia 22
+  de Agosto de 2018.
 template: post
 ---
 Assista a conversa gravada pelo CAPETA com André Perfeito realizada no dia 22 de Agosto de 2018.
