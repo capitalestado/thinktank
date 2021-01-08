@@ -96,8 +96,9 @@ sections:
             style: primary
       - title: Entrevista com Carlos Paiva - Inflação Brasileira
         content: >-
-          A prof. Dr. Gláucia Campregher entrevista o economista Carlos Paiva da
-          UFRGS sobre "Inflação no Brasil".
+          A prof. Dr. Gláucia Campregher entrevista o economista Carlos Paiva,
+          Professor da Faculdade de Ciências Econômicas da UFRGS sobre "Inflação
+          no Brasil".
         align: left
         image: images/carlos-paiva.jpg
         image_position: left
