@@ -5,7 +5,7 @@ categories:
   - src/data/categories/general.yaml
 tags:
   - eleições
-  - candi
+  - economia
 image: images/3.png
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
