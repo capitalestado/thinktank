@@ -9,10 +9,7 @@ tags:
   - JAMstack
   - Sourcebit
 image: images/atlas-start-a-think-tank.png
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: ''
 template: post
 ---
 por Augusto Gabriel Colório
