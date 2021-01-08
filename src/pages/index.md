@@ -75,7 +75,7 @@ sections:
       manutenção do site, organização de eventos, etc.
     actions:
       - label: Saiba Mais!
-        url: /features
+        url: /funding
         style: primary
     has_background: true
     background_color: gray
