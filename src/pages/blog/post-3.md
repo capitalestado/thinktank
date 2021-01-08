@@ -6,7 +6,6 @@ categories:
 tags:
   - eleições
   - economia
-  - candidatos
 image: images/3.png
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
