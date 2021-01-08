@@ -1,7 +1,6 @@
 ---
 title: Propostas econômicas dos presidenciáveis
 date: '2018-08-19'
-author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
 tags:
