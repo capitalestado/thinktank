@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/news.yaml
 tags:
-  - JAMstack
+  - eleições
   - Sourcebit
 image: images/atlas-start-a-think-tank.png
 excerpt: ''
