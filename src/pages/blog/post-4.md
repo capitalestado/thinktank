@@ -9,7 +9,6 @@ tags:
   - eleições
   - MLB
   - nova direita
-  - lorem-ipsum
 image: images/atlas-start-a-think-tank.png
 excerpt: ''
 template: post
