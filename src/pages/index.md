@@ -74,7 +74,7 @@ sections:
       conjuntura, produção de vídeos e podcasts, manutenção do site, organização
       de eventos, etc.
     actions:
-      - label: Learn More
+      - label: Saiba Mais!
         url: /features
         style: primary
     has_background: true
