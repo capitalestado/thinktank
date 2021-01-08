@@ -9,17 +9,17 @@ tags:
   - frança
 image: images/andreperfeito2.png
 excerpt: >-
-  Assista a conversa gravada pelo CAPETA com André Perfeito realizada no dia 22
-  de Agosto de 2018.
+  Tradução para o português por Lucas Alberto Santos e Bruno Inghes do artigo “The yellow vest protesters revolting against centrism mean well – but their left wing populism won’t change French politics” publicado originalmente pelo filósofo, sociólogo, teórico crítico e cientista social esloveno Slavoj Zizek no portal de informação inglês Independent em 17/12/18.
 template: post
 ---
-Tradução para o português por Lucas Alberto Santos e Bruno Inghes do artigo “The yellow vest protesters revolting against centrism mean well – but their left wing populism won’t change French politics” publicado originalmente pelo filósofo, sociólogo, teórico crítico e cientista social esloveno Slavoj Zizek no portal de informação inglês Independent em 17/12/18.
-A revolta dos coletes amarelos contra o centrismo cai bem, mas o seu populismo de esquerda não mudará a política francesa…
+
+- Tradução para o português por Lucas Alberto Santos e Bruno Inghes do artigo “The yellow vest protesters revolting against centrism mean well – but their left wing populism won’t change French politics” publicado originalmente pelo filósofo, sociólogo, teórico crítico e cientista social esloveno Slavoj Zizek no portal de informação inglês Independent em 17/12/18.
+
+#### A revolta dos coletes amarelos contra o centrismo cai bem, mas o seu populismo de esquerda não mudará a política francesa…
 Por Slavoj Zizek
 17 de dezembro de 2018 no Independent.co.uk
 
 As demandas dos manifestantes não são possíveis de serem implementadas dentro do atual sistema capitalista, e eles não são suficientemente ambiciosos para provocar uma mudança na direção de um sistema mais igualitário, nem tampouco, ecologicamente sustentável.
-
 
 Os protestos dos coletes amarelos (gilets jaunes) na França continuam pelo quinto fim de semana seguido. Começaram como um movimento de base de descontentamento generalizado com o novo “eco-imposto” sobre o petróleo e o diesel, entendido como um ataque aos que vivem e trabalham fora das áreas metropolitanas, onde não há transporte público. Nas últimas semanas, o movimento cresceu somando demandas variadas e difusas, dentre as quais estão o Frexit (a saída da França da UE), a redução de impostos, o aumento das aposentadorias e o aumento do poder aquisitivo do francês comum.
 
