@@ -94,6 +94,16 @@ sections:
           - label: Acesse o Vídeo
             url: 'https://www.youtube.com/watch?v=G3MSba5zPdc'
             style: primary
+      - title: Entrevista com Carlos Paiva - Inflação Brasileira
+        content: >-
+          A prof. Dr. Gláucia Campregher entrevista o economista Carlos Paiva da UFRGS sobre "Inflação no Brasil".
+        align: left
+        image: images/impostos.jpg
+        image_position: left
+        actions:
+          - label: Acesse o Vídeo
+            url: 'https://www.youtube.com/watch?v=JI7yUKxae78'
+            style: primary
     title: O Básico da Economia Política
 template: advanced
 ---
