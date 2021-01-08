@@ -22,6 +22,13 @@
                 "style": "link"
             },
             {
+                "label": "Cursos",
+                "url": "/courses",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
@@ -42,13 +49,6 @@
                 "label": "Apoie-nos _o/",
                 "url": "/funding",
                 "style": "primary"
-            },
-            {
-                "label": "Cursos",
-                "url": "/courses",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "logo": "images/majestic-sloth.png"
