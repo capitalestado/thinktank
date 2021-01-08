@@ -6,7 +6,7 @@ categories:
 tags:
   - eleições
   - economia
-  - lorem-ipsum
+  - política
 image: images/3.png
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
