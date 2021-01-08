@@ -7,7 +7,7 @@ categories:
   - src/data/categories/news.yaml
 tags:
   - eleições
-  - Sourcebit
+  - MLB
 image: images/atlas-start-a-think-tank.png
 excerpt: ''
 template: post
