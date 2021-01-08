@@ -1,5 +1,6 @@
 ---
-title: A revolta dos coletes amarelos contra o centrismo cai bem, mas o seu populismo de esquerda não mudará a política francesa…
+title: >-
+  A revolta dos coletes amarelos contra o centrismo cai bem, mas o seu populismo de esquerda não mudará a política francesa…
 date: '2018-11-08'
 categories:
   - src/data/categories/tutorials.yaml
