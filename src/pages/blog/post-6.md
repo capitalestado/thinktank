@@ -8,7 +8,7 @@ tags:
   - politica
   - greve
   - frança
-image: images/andreperfeito2.png
+image: images/Yellow_vests_Paris-800x450.jpg
 excerpt: >-
   Tradução para o português por Lucas Alberto Santos e Bruno Inghes do artigo “The yellow vest protesters revolting against centrism mean well – but their left wing populism won’t change French politics” publicado originalmente pelo filósofo, sociólogo, teórico crítico e cientista social esloveno Slavoj Zizek no portal de informação inglês Independent em 17/12/18.
 template: post
