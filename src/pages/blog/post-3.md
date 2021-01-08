@@ -4,7 +4,7 @@ date: '2018-08-19'
 categories:
   - src/data/categories/general.yaml
 tags:
-  - Stackbit
+  - elei
   - JAMstack
 image: images/3.png
 excerpt: >-
