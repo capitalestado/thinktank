@@ -71,8 +71,8 @@ sections:
     subtitle: >-
       Estamos recebendo doações de pessoas físicas e empresas para financiamento
       das atividades do grupo como produção de conteúdo original, análises de
-      conjuntura, produção de vídeos e podcasts, manutenção do site, organização
-      de eventos, etc.
+      conjuntura, realização de cursos, produção de vídeos e podcasts,
+      manutenção do site, organização de eventos, etc.
     actions:
       - label: Saiba Mais!
         url: /features
