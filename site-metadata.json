@@ -27,16 +27,16 @@
                 "style": "link"
             },
             {
+                "label": "Referências",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
                 "label": "Contato",
                 "url": "/contact",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
-            },
-            {
-                "label": "Referências",
-                "url": "/style-guide",
-                "style": "link"
             },
             {
                 "label": "Apoie-nos _o/",
