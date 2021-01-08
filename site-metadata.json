@@ -42,6 +42,13 @@
                 "label": "Apoie-nos _o/",
                 "url": "/funding",
                 "style": "primary"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
             }
         ],
         "logo": "images/majestic-sloth.png"
