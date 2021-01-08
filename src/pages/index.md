@@ -76,7 +76,7 @@ sections:
     actions:
       - label: Saiba Mais!
         url: /funding
-        style: primary
+        style: secondary
     has_background: true
     background_color: gray
 template: advanced
