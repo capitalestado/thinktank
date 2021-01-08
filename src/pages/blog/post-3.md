@@ -5,7 +5,7 @@ categories:
   - src/data/categories/general.yaml
 tags:
   - eleições
-  - JAMstack
+  - candi
 image: images/3.png
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
