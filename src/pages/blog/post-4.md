@@ -1,6 +1,6 @@
 ---
 title: As interferências externas no Brasil e a nova direita
-date: '2020-05-02'
+date: '2018-09-21'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tutorials.yaml
