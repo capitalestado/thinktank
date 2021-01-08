@@ -45,7 +45,7 @@
             },
             {
                 "label": "Cursos",
-                "url": "lorem-ipsum",
+                "url": "/courses",
                 "style": "link",
                 "new_window": false,
                 "type": "action"
