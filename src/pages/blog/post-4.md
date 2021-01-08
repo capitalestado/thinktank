@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: As interferências externas no Brasil e a nova direita
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
