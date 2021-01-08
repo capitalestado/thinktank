@@ -67,7 +67,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: Apoie o Grupo Capital e Estado
+    title: Seja um apoiador do Grupo Capital e Estado
     subtitle: >-
       Estamos recebendo doações de pessoas físicas e empresas para financiamento
       das atividades do grupo como produção de conteúdo original, análises de
