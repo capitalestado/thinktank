@@ -1,7 +1,6 @@
 ---
 title: CAPETA conversa com ANDRÉ PERFEITO
 date: 82018-11-08
-author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
 tags:
