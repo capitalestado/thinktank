@@ -1,6 +1,6 @@
 ---
 title: Propostas econômicas dos presidenciáveis
-date: '2020-05-28'
+date: '2020-05-01'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/general.yaml
