@@ -6,7 +6,7 @@ categories:
 tags:
   - mercadofinanceiro
   - economia
-image: images/Yellow_vests_Paris-800x450.jpg
+image: images/andreperfeito2.png
 excerpt: >-
   Assista a conversa gravada pelo CAPETA com André Perfeito realizada no dia 22
   de Agosto de 2018.
