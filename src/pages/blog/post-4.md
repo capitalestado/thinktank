@@ -8,7 +8,7 @@ categories:
 tags:
   - eleições
   - MLB
-  - lorem-ipsum
+  - Nova Direita
   - lorem-ipsum
 image: images/atlas-start-a-think-tank.png
 excerpt: ''
