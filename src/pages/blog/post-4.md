@@ -8,6 +8,7 @@ categories:
 tags:
   - eleições
   - MLB
+  - lorem-ipsum
 image: images/atlas-start-a-think-tank.png
 excerpt: ''
 template: post
