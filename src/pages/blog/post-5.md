@@ -4,7 +4,7 @@ date: '2018-11-08'
 categories:
   - src/data/categories/tutorials.yaml
 tags:
-  - mercado financeiro
+  - mercadofinanceiro
   - Netlify
 image: images/andreperfeito2.png
 excerpt: >-
