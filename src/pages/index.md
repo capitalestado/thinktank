@@ -69,10 +69,10 @@ sections:
   - type: cta_section
     title: Apoie o Grupo Capital e Estado
     subtitle: >-
-      Estamos recebendo doações de pessoas físicas e empresas para financiamento
-      das atividades do grupo como produção de conteúdo original, análises de
-      conjuntura, realização de cursos, produção de vídeos e podcasts,
-      manutenção do site, organização de eventos, etc.
+      Estamos recebendo doações de recursos financeiros de pessoas físicas e
+      empresas para financiamento das atividades do grupo como produção de
+      conteúdo original, análises de conjuntura, realização de cursos, produção
+      de vídeos e podcasts, manutenção do site, organização de eventos, etc.
     actions:
       - label: Saiba Mais!
         url: /funding
