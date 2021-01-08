@@ -5,7 +5,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - mercadofinanceiro
-  - Netlify
+  - economia
 image: images/andreperfeito2.png
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
